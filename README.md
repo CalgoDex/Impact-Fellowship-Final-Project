@@ -15,7 +15,7 @@ sensory data is in, then make the band vibrate in the general direction of the o
 We will be using the following libraries and sensory log data:
 
     Libraries
-        1.
+        1. REACT.JS
         2.
         3.
     Sensory logs
