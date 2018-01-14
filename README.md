@@ -1,5 +1,5 @@
 # Impact-Fellowship-Final-Project
-Echolocation belt for the visually impaired final project for the Impact Fellowship Summit
+Echolocation band for the visually impaired final project for the Impact Fellowship Summit
 
 At the end of this project, we hope to have a software that is capable of sensing the environment
 around those whom are visually impaired and provide proper feedback on how to navigate this world.
