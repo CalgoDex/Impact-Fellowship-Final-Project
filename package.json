@@ -1,0 +1,19 @@
+{
+  "name": "impact-fellowship-final-project",
+  "version": "1.0.0",
+  "description": "Echolocation band for the visually impaired final project for the Impact Fellowship Summit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CalgoDex/Impact-Fellowship-Final-Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CalgoDex/Impact-Fellowship-Final-Project/issues"
+  },
+  "homepage": "https://github.com/CalgoDex/Impact-Fellowship-Final-Project#readme"
+}

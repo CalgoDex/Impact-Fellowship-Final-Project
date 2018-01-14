@@ -1,1 +1,5 @@
-//Will house our finished product
+import React from 'react'
+
+constructor sensoryInput(){
+
+}
